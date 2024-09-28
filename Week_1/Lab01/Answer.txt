@@ -1,0 +1,3 @@
+6.1
+- Nếu người dùng chọn cancel , giá trị trả về sẽ là null.
+- Để có thể tùy chỉnh các lựa chọn, ta thay đổi các nút hiển thị trong JOptionPane bằng cách thay đổi trong showOptionDialog
