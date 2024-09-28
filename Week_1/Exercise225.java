@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DoubleSum {
+public class Exercise225 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
