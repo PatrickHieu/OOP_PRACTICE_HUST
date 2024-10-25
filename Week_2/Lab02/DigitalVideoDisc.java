@@ -1,4 +1,4 @@
-package lab02;
+package Lab02;
 //Nguyen Thanh Hieu - 20225716
 
 public class DigitalVideoDisc {
